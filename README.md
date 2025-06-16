@@ -1,14 +1,14 @@
 <div style="text-align:center"><img src="./tf.svg" alt="trans flag"></div>
 
-## 👋你好，这里是闲者cosing
+## 👋你好，这里是闲者 cosing
 
 ![cosing's github stats](https://github-readme-stats.vercel.app/api?username=cosing&show_icons=true&include_all_commits=true&theme=github_dark)
 
-[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](./cosing_2024_0x76EFBEFE_public.asc) [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/cosing/0758e1f102de7a5696d27461ae93c293) [![邮箱](https://img.shields.io/badge/-邮箱-6D4AFF?logo=protonmail&labelColor=6D4AFF&logoColor=fff)](mailto://cocosing@protonmail.com)
+[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](./cosing_2025_0x76EFBEFE_public.asc) [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/cosing/0758e1f102de7a5696d27461ae93c293) [![邮箱](https://img.shields.io/badge/-邮箱-6D4AFF?logo=protonmail&labelColor=6D4AFF&logoColor=fff)](mailto://cocosing@protonmail.com)
 
 ## 基本介绍
 
-24岁，~~事学生~~，非计算机相关专业，在GitHub上面也就过来看看，比较喜欢简洁的东西，技术力低下，接触过c / python 两门语言。曾经学过统计学科。开源爱好者。名称来源于很久很久以前的coding平台，我试图注册coding名称失败了，于是把d换成了s。
+25岁，~~事学生~~，失业中 :disappointed: ，非计算机相关专业，比较喜欢简洁的东西，技术力低下，接触过c / python 两门语言。曾经学过统计学科。开源爱好者。名称来源于很久很久以前的coding平台，我试图注册coding名称失败了，于是把d换成了s。
 
 ## 创作造物
 
