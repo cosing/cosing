@@ -4,7 +4,7 @@
 
 ![cosing's github stats](https://github-readme-stats.vercel.app/api?username=cosing&show_icons=true&include_all_commits=true&theme=github_dark)
 
-[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](./cosing_2025_0x76EFBEFE_public.asc) [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/cosing/0758e1f102de7a5696d27461ae93c293) [![邮箱](https://img.shields.io/badge/-邮箱-6D4AFF?logo=protonmail&labelColor=6D4AFF&logoColor=fff)](mailto://cocosing@protonmail.com)
+[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](./cosing_2025_0x76EFBEFE_public.asc) [![留言](https://img.shields.io/badge/📝-留言-7719AA?labelColor=7719AA)](https://gist.github.com/cosing/0758e1f102de7a5696d27461ae93c293) [![邮箱](https://img.shields.io/badge/-邮箱-6D4AFF?logo=protonmail&labelColor=6D4AFF&logoColor=fff)](mailto://cocosing@protonmail.com)
 
 ## 基本介绍
 
