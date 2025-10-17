@@ -8,7 +8,7 @@
 
 ## 基本介绍
 
-25岁，~~事学生~~，失业中 :disappointed: ，非计算机相关专业，比较喜欢简洁的东西，技术力低下，接触过c / python 两门语言。曾经学过统计学科。开源爱好者。名称来源于很久很久以前的coding平台，我试图注册coding名称失败了，于是把d换成了s。
+25 岁，~~事学生~~，失业中 :disappointed: ，非计算机相关专业，比较喜欢简洁的东西，技术力低下，接触过c / python 两门语言。曾经学过统计学科。开源爱好者。
 
 ## 创作造物
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - <https://zhuanlan.zhihu.com/p/454597068>
 - <https://github.com/journey-ad/journey-ad>
 - <https://dev.to/envoy_/150-badges-for-github-pnk>
-
+- <https://readme-typing-svg.herokuapp.com/demo>
 
 
 <center><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e42e2d30-f2af-4121-b5f1-5cb665b6bafa/df65t44-f50ea984-55d3-4cb4-a38d-1063a3637779.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0MmUyZDMwLWYyYWYtNDEyMS1iNWYxLTVjYjY2NWI2YmFmYVwvZGY2NXQ0NC1mNTBlYTk4NC01NWQzLTRjYjQtYTM4ZC0xMDYzYTM2Mzc3NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KlmLamyQcJNgdoMiwvBcSPaT0-C8vD5lvkjjLCWZUWY"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e42e2d30-f2af-4121-b5f1-5cb665b6bafa/df65t44-f50ea984-55d3-4cb4-a38d-1063a3637779.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0MmUyZDMwLWYyYWYtNDEyMS1iNWYxLTVjYjY2NWI2YmFmYVwvZGY2NXQ0NC1mNTBlYTk4NC01NWQzLTRjYjQtYTM4ZC0xMDYzYTM2Mzc3NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KlmLamyQcJNgdoMiwvBcSPaT0-C8vD5lvkjjLCWZUWY" style="transform: rotateY(180deg);"></center> 
