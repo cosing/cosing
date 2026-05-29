@@ -2,27 +2,17 @@
 
 ## 👋你好，这里是闲者 cosing
 
-[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](./cosing_2026_0x76EFBEFE_public.asc) [![留言](https://img.shields.io/badge/📝-留言-7719AA?labelColor=7719AA)](https://gist.github.com/cosing/0758e1f102de7a5696d27461ae93c293) [![邮箱](https://img.shields.io/badge/-邮箱-6D4AFF?logo=protonmail&labelColor=6D4AFF&logoColor=fff)](mailto:cocosing@protonmail.com)
+[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](./cosing_2026_0x76EFBEFE_public.asc) [![邮箱](https://img.shields.io/badge/-邮箱-6D4AFF?logo=protonmail&labelColor=6D4AFF&logoColor=fff)](mailto:cocosing@protonmail.com)
 
 ## 基本介绍
 
-26 岁，~~事统计学学生~~，失业中 :disappointed: ，非计算机相关专业，比较喜欢简洁的东西，技术力低下，接触过 c / cpp / python /go 等语言。开源爱好者。
+26 岁，~~事统计学学生~~，失业中 :disappointed: ，比较喜欢简洁的东西，技术力低下，接触过 c / cpp / python /go 等语言。开源爱好者。
 
-## 创作造物
-
- - N0NE
-
-## 历史记录
-
-### 游戏
+## 玩游戏
 
 - [CDDA](https://github.com/CleverRaven/Cataclysm-DDA)
   - 但是我现在玩 [BN分支](https://github.com/cataclysmbn/Cataclysm-BN) 了
 - [MineCraft](https://www.minecraft.net/zh-hans)
-
-### 书籍
-
-- [等待补充]
 
 <div style="text-align:center"><img src="./tf.svg" alt="trans flag"></div>
 
