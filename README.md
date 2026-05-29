@@ -8,6 +8,10 @@
 
 26 岁，~~事统计学学生~~，失业中 :disappointed: ，比较喜欢简洁的东西，技术力低下，接触过 c / cpp / python /go 等语言。开源爱好者。
 
+## REPO
+
+- [github 增强脚本](https://update.greasyfork.org/scripts/564354/Github%20Simple%20enhance.user.js) 使用本地语言设置GitHub日期语言，并且提供GitHub clone按钮
+
 ## 玩游戏
 
 - [CDDA](https://github.com/CleverRaven/Cataclysm-DDA)
